@@ -1,0 +1,40 @@
+body {
+    background-color:darkgray;
+}
+h1 {
+    font-size:60px;
+    color: rgb(29, 98, 158);
+}
+h2 {
+    font-size:30px;
+    color:rgb(29, 98, 158); 
+    font-weight:bold; 
+    font-style:normal;
+    font-family: Arial;
+
+
+}	
+li {
+    font-size:20px;
+}
+strong {
+    color :darkblue;
+}
+
+a:link {
+color: Red ;
+text-decoration: underline;
+}
+
+a:visited {
+
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+text-decoration: underline;
+}
